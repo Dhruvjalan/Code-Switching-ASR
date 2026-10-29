@@ -315,8 +315,14 @@ Future work includes systematic comparison of pretrained ASR models, full and pa
 
 The intended outcome is an experimental framework that makes it possible to compare models fairly, understand their failure modes, and identify effective strategies for code-switched speech recognition under limited computational resources.
 
-## References
+## 10. References
 
-1. Radford, A. et al. *Robust Speech Recognition via Large-Scale Weak Supervision*. 2022.
-2. Hugging Face. *Whisper Fine-Tuning Guide and Transformers Documentation*.
-3. Computation and Language (cs.CL); Sound (cs.SD); Audio and Speech Processing (eess.AS) arXiv:2507.07741 [cs.CL]
+1. *Unsupervised Cross-lingual Representation Learning for Speech Recognition.* arXiv:2006.13979 [cs.CL]. https://arxiv.org/abs/2006.13979
+
+2. Hugging Face. *Whisper Fine-Tuning Guide and Transformers Documentation.* https://huggingface.co/docs/transformers
+
+3. *Code-Switching in End-to-End Automatic Speech Recognition: A Systematic Literature Review.* arXiv:2507.07741 [cs.CL]. https://arxiv.org/abs/2507.07741
+
+4. Agarwal, A. *Hinglish Concatenated Audio Dataset.* Hugging Face, 2026. Aggregated from Mozilla Common Voice, AI4Bharat (Kathbath, Mann Ki Baat, Spoken Tutorial, IndicTTS), SPRINGLab IndicTTS, and custom recordings. https://huggingface.co/datasets/agarwalayushi/hinglish
+
+5. Ganji, S., Dhawan, K., and Sinha, R. *IITG-HingCoS Corpus: A Hinglish Code-Switching Database for Automatic Speech Recognition.* Speech Communication, 110, 76–89, 2019. https://doi.org/10.1016/j.specom.2019.04.007
